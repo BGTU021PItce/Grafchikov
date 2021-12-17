@@ -1,0 +1,5 @@
+w=float(input())
+t=int(input())
+krug=int(w*t)
+ugol=float((w*t-krug)*360)
+print(ugol)
